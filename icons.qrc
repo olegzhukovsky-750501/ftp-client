@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/icons"/>
+    <qresource prefix="/">
+        <file>icons/delete.png</file>
+        <file>icons/logoFTP.png</file>
+        <file>icons/addFolder.png</file>
+        <file>icons/rename.png</file>
+    </qresource>
+</RCC>
